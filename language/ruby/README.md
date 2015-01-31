@@ -4,6 +4,7 @@ Ruby Language
 * Beginner
   * [Learn Ruby the HARD Way](http://ruby.learncodethehardway.org)
   * [Ruby Koans](https://github.com/neo/ruby_koans)
+  * [Ruby Kickstart](https://github.com/JoshCheek/ruby-kickstart)
   * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 * Advanced
   * [The Ruby Object Model and Metaprogramming](http://pragprog.com/screencasts/v-dtrubyom/the-ruby-object-model-and-metaprogramming)
